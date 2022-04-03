@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/JoeZhou919713424/my_project.git
 git push -u origin main
+
+#hello world
+#test this github
